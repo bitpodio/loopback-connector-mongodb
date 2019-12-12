@@ -26,12 +26,14 @@
   ],
   "license": "MIT",
   "dependencies": {
+    "@google-cloud/logging-winston": "^3.0.1",
     "async": "^1.0.0",
     "debug": "^2.1.1",
     "lodash": "^4.17.4",
     "loopback-connector": "^2.2.0",
     "mongodb": "^2.2.20",
-    "strong-globalize": "^2.6.0"
+    "strong-globalize": "^2.6.0",
+    "winston": "^3.2.1"
   },
   "devDependencies": {
     "benchmark": "^1.0.0",
